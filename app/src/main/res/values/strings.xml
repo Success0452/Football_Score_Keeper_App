@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Football Score Keeper App</string>
+    <string name="zero">0</string>
+    <string name="reset">Reset</string>
+    <string name="add_throw_in">Add Throw-In</string>
+    <string name="add_foul">Add Foul</string>
+    <string name="add_score">Add Score</string>
+    <string name="team_b_score">Team B Score</string>
+    <string name="team_a_score">Team A Score</string>
+    <string name="foul_count">Foul Count</string>
+    <string name="throw_in_count">Throw-In Count</string>
+</resources>
